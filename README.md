@@ -54,9 +54,6 @@ $password = '';
 2. Add new customers using the "Add New Customer" button
 3. Edit or delete existing customers as needed
 
-## Screenshots
-
-[Add screenshots here if available]
 
 ## License
 
