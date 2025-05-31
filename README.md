@@ -1,4 +1,7 @@
-# Simple CRM System
+# CRM Components
+
+> [!TIP]  
+> Not to be used standalone.
 
 A basic Customer Relationship Management system built with PHP and MySQL.
 
